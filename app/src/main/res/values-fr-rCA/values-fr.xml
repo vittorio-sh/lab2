@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textv">j aime androïde</string>
+    <string name="hinttext">j aime androïde</string>
+    <string name="swi">Allumer / éteindre</string>
+    <string name="app_name">papplication de projet</string>
+    <string name="press">Appuyez sur moi</string>
+    <string name="etext">j aime androïde</string>
+    <string name="check">Regarde ça!</string>
+    <string name="toast_msg">Le libellé a été mis à jour</string>
+    <string name="checker">la case à cocher est :</string>
+</resources>

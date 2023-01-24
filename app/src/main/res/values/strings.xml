@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="textv">I love Android</string>
+    <string name="hinttext">I love Android</string>
+    <string name="swi">Switch on/off</string>
+    <string name="app_name">project app</string>
+    <string name="press">Press Me</string>
+    <string name="etext">I love Android"</string>
+    <string name="check">Check this out!</string>
+    <string name="toast_msg">Label has been updated</string>
+    <string name="checker">checkbox is:</string>
 </resources>
